@@ -1,0 +1,30 @@
+div.main
+{
+	font-size: x-large;
+	margin: 10px;
+}
+
+#name
+{
+	padding: 10px 150px 10px 10px;
+}
+
+#email
+{
+	padding: 10px 10px 10px 80px;
+}
+
+#mobile
+{
+	padding: 10px 230px 10px 10px;
+}
+
+#work
+{
+	padding: 10px 200px 10px 10px;
+}
+
+#submit
+{
+	padding: 10px 10px 10px 10px;
+}

@@ -1,0 +1,71 @@
+.header
+{
+	padding: 20px;
+}
+
+.footer
+{
+	min-height: 100px;
+}
+
+.list
+{
+	display: inline-block;
+	width: 100px;
+	list-style-type: square;
+	position: absolute;
+	left: 300px;
+}
+
+	h2
+{
+	text-transform: capitalize;
+	text-align: justify;
+	display: inline-block;
+	width: 120px;
+	position: absolute;
+	top: 30px;
+	right: 180px;
+}
+
+	h3
+{
+	font-size: x-large;
+	text-transform: capitalize;
+	text-align: justify;
+	display: inline-block;
+}
+
+	p
+{
+	text-transform: capitalize;
+	text-align: justify;
+	display: inline-block;
+}
+
+#one
+{
+	width: 1000px;
+	height: 200px;
+	position: absolute;
+	left: 300px;
+}
+
+#two
+{	width: 800px;
+	position: absolute;
+	left: 300px;
+}
+
+#three
+{
+	width: 800px;
+	position:absolute;
+	left: 300px;
+}
+
+#foot
+{
+	position: absolute;
+	left: 42%;
+}
